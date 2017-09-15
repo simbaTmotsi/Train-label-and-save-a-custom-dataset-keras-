@@ -10,3 +10,6 @@ The model is training on the America sign language dataset.
 <p>-> TensorFlow <p>
 <p>-> Numpy<p>
 <p>-> Matplotlib<p>
+<p><p>
+<p><p>
+<p> deleted files from the data folder due to the 25MB limit <p>
