@@ -3,8 +3,10 @@ Lets you load your images, assign your labels and save the model in .h5 format a
 
 The model is training on the America sign language dataset.
 ..Requirements..
--> Python 3.5
--> OpenCV
--> sklearn
--> Keras 2
--> TensorFlow
+<p>-> Python 3.5 <p>
+<p>-> OpenCV<p>
+<p>-> sklearn <p>
+<p>-> Keras 2 <p>
+<p-> TensorFlow <p>
+<p>-> Numpy<p>
+<p>-> Matplotlib<p>
